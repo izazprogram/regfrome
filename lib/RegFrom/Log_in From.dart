@@ -56,7 +56,7 @@ class LogIn extends StatelessWidget {
                       ),
                     ),
                     SizedBox(
-                      height: 10,
+                      height: 8,
                     ),
                     TextFormField(
                       keyboardType: TextInputType.name,
